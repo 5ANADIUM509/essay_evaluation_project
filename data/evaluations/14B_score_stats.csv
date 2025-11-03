@@ -1,0 +1,2 @@
+﻿model_name,total_questions,valid_score_count,average_score,score_std,high_score_rate(≥8),low_score_rate(≤3)
+14B,200,72,8.21,0.51,88.89%,0.0%

@@ -1,0 +1,2 @@
+﻿model_a,model_b,valid_pair_count,model_a_win_count,model_b_win_count,tie_count,model_a_win_rate,model_b_win_rate,average_score_diff
+14B,70B,71,44,9,18,61.97%,12.68%,0.67
